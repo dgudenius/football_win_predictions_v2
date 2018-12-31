@@ -1,4 +1,4 @@
-date,season,neutral,playoff,team1,team2,elo1,elo2,elo_prob1,score1,score2,result1,
+date,season,neutral,playoff,team1,team2,elo1,elo2,elo_prob1,score1,score2,result1,spread_prob
 9/26/1920,1920,0,0,RII,STP,1503.947,1300,0.824651201,48,0,1,
 10/3/1920,1920,0,0,AKR,WHE,1503.42,1300,0.824212097,43,0,1,
 10/3/1920,1920,0,0,RCH,ABU,1503.42,1300,0.824212097,10,0,1,
